@@ -10,6 +10,8 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 pydot = "*"
+openpyxl = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
